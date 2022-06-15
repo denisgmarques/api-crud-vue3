@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Quasar JS",
+      "author": "Denis Giovan Marques",
+      "content": "Content 1"
+    }
+  ]
+}
